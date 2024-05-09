@@ -1,4 +1,0 @@
-C:\Users\ttsla\OneDrive\Desktop\prac\practice\x64\Debug\practice.vcxproj.AssemblyReference.cache
-C:\Users\ttsla\OneDrive\Desktop\prac\practice\x64\Debug\practice.MyForm.resources
-C:\Users\ttsla\OneDrive\Desktop\prac\practice\x64\Debug\practice.MyForm2.resources
-C:\Users\ttsla\OneDrive\Desktop\prac\practice\x64\Debug\practice.vcxproj.GenerateResource.cache
