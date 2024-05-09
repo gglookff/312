@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\ttsla\OneDrive\Desktop\zadanie2\MyForm.h(221,1): warning C4700: использована неинициализированная локальная переменная "a"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  zadanie2.vcxproj -> C:\Users\ttsla\OneDrive\Desktop\zadanie2\x64\Debug\zadanie2.exe

@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+X:\Папка (не новая)\Учеба\Практика\zadanie2\MyForm.h(221): warning C4700: использована неинициализированная локальная переменная "a"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  zadanie2.vcxproj -> X:\Папка (не новая)\Учеба\Практика\zadanie2\x64\Debug\zadanie2.exe
