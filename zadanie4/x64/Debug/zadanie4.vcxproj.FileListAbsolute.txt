@@ -1,0 +1,10 @@
+X:\Папка (не новая)\Учеба\zadanie4\x64\Debug\zadanie4.vcxproj.AssemblyReference.cache
+X:\Папка (не новая)\Учеба\zadanie4\x64\Debug\zadanie4.vcxproj.SuggestedBindingRedirects.cache
+X:\Папка (не новая)\Учеба\zadanie4\x64\Debug\zadanie4.MyForm.resources
+X:\Папка (не новая)\Учеба\zadanie4\x64\Debug\zadanie4.vcxproj.GenerateResource.cache
+X:\Папка (не новая)\Учеба\zadanie4\x64\Debug\zadanie4.exe
+X:\Папка (не новая)\Учеба\Практика\zadanie4\x64\Debug\zadanie4.vcxproj.AssemblyReference.cache
+X:\Папка (не новая)\Учеба\Практика\zadanie4\x64\Debug\zadanie4.vcxproj.SuggestedBindingRedirects.cache
+X:\Папка (не новая)\Учеба\Практика\zadanie4\x64\Debug\zadanie4.MyForm.resources
+X:\Папка (не новая)\Учеба\Практика\zadanie4\x64\Debug\zadanie4.vcxproj.GenerateResource.cache
+X:\Папка (не новая)\Учеба\Практика\zadanie4\x64\Debug\zadanie4.exe
