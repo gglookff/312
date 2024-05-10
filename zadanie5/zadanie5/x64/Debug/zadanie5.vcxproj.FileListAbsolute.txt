@@ -1,0 +1,4 @@
+C:\Users\ttsla\OneDrive\Desktop\zadanie5\zadanie5\x64\Debug\zadanie5.vcxproj.AssemblyReference.cache
+C:\Users\ttsla\OneDrive\Desktop\zadanie5\zadanie5\x64\Debug\zadanie5.MyForm.resources
+C:\Users\ttsla\OneDrive\Desktop\zadanie5\zadanie5\x64\Debug\zadanie5.MyForm2.resources
+C:\Users\ttsla\OneDrive\Desktop\zadanie5\zadanie5\x64\Debug\zadanie5.vcxproj.GenerateResource.cache
